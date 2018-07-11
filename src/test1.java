@@ -14,7 +14,7 @@ public class test1 {
 
         public static void main(String[] args) {
             System.out.println(isPowerOfTwo(0));
-            System.out.println(isPowerOfTwo(25));
+            System.out.println(isPowerOfTwo(255));
             System.out.println(isPowerOfTwo(-2));
 
     }
